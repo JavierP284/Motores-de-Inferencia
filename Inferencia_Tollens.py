@@ -1,0 +1,1 @@
+#Mini motor de inferencia usando Modus Tollens
